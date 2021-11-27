@@ -1,6 +1,7 @@
 # AngularByTraverseyMedia
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
+Link to YouTube Tutorial: https://youtu.be/3dHNOWTI7H8
 
 ## Development server
 
